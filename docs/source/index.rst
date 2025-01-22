@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Tánh Tuke - Người Dẫn Dắt Thành Công Cổng Game Manclub
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Tánh Tuke <https://manclubgame.co/ceo-tanh-tuke/>`_ là người sáng lập và lãnh đạo Manclub, một trong những cổng game trực tuyến uy tín tại Việt Nam. Với tầm nhìn chiến lược sắc bén và kinh nghiệm vững vàng trong ngành chơi game trực tuyến, ông đã dẫn dắt Manclub phát triển mạnh mẽ từ những ngày đầu thành lập vào năm 2018. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự chỉ đạo của Tánh Tuke, Manclub không chỉ mở rộng danh mục trò chơi mà còn xây dựng một nền tảng bảo mật vững chắc, mang lại cho người chơi những trải nghiệm an toàn và công bằng. Tánh Tuke luôn chú trọng vào việc cải tiến công nghệ và phát triển dịch vụ khách hàng, giúp Manclub khẳng định được vị thế vững chắc trong ngành game và đổi thưởng trực tuyến tại Việt Nam.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 580 Đ. Kinh Dương Vương, An Lạc, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0356741200. 
 
-.. toctree::
+Email: contact@manclubgame.co. 
 
-   usage
-   api
+Website: https://manclubgame.co/ceo-tanh-tuke/ 
+
+#tanhtuke #ceotanhtuke #ceotanhtuke_manclub
